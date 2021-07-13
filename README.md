@@ -2,6 +2,7 @@
 A fangame of the popular indie game Friday Night Funkin'.
 
 Check Funkin Fanworks here: https://srperez.itch.io/funkinfanworks
+
 Check the original game here: https://ninja-muffin24.itch.io/funkin
 
 This is a GameMaker 2 project. To compile it you need to have GameMaker 2, which is sadly not free. Here's the source code in case there's other people that have a license.
